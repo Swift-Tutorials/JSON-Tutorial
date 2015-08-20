@@ -1,4 +1,5 @@
-This tutorial demonstrate how to use OpenSource SwiftyJSON library to parse JSON Data and show it table view.
+# JSON data parsing tutorial
+This tutorial demonstrate how to use OpenSource SwiftyJSON library to parse JSON Data and show it in table view.
 
 This contents following things - 
 - Parse the online JSON Data and show data in tableview.
