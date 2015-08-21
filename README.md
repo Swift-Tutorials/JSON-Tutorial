@@ -10,7 +10,7 @@ This contents following things -
 ![Alt text](/Screenshots/json-3.png?raw=true "Updated Json Data")<br><br><br>
 - Once data is display online at time of application kill, its save in plist as well as images into the Documents/Images directory to load data offline.<br><br>
 ![Alt text](/Screenshots/json-4.png?raw=true "Show offline saved data")<br><br><br>
-- Show warning when user pull to refresh data.<br><br>
+- Show warning when user pull to refresh data in offline mode.<br><br>
 ![Alt text](/Screenshots/json-5.png?raw=true "Show Warning")<br><br><br>
 - Provides searchbar to search items from table view.<br><br>
 
