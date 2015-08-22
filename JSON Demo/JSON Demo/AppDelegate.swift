@@ -55,7 +55,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationWillTerminate(application: UIApplication) {
-        if (nameAndAvatar != nil && !isSave) {
+        if (nameAndAvatar != nil) {
             //            print("\n\n\n path = > \(plist)")
             nameAndAvatar?.writeToFile(plist!, atomically: false)
         }

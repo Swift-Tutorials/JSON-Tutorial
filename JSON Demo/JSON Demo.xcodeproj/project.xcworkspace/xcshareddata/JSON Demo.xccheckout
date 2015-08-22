@@ -10,31 +10,31 @@
 	<string>JSON Demo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5C3390ACBB5411A9B5251BF5A3C4B028FBAC4D06</key>
-		<string>https://github.com/YogeshBharate001/Swift.git</string>
+		<key>DA947402317C90A7D22F02DD0E2CD5106979C542</key>
+		<string>https://github.com/Swift-Tutorials/JSON-Tutorial.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Practice/JSON Demo/JSON Demo.xcodeproj</string>
+	<string>JSON Demo/JSON Demo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5C3390ACBB5411A9B5251BF5A3C4B028FBAC4D06</key>
-		<string>../../../..</string>
+		<key>DA947402317C90A7D22F02DD0E2CD5106979C542</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/YogeshBharate001/Swift.git</string>
+	<string>https://github.com/Swift-Tutorials/JSON-Tutorial.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5C3390ACBB5411A9B5251BF5A3C4B028FBAC4D06</string>
+	<string>DA947402317C90A7D22F02DD0E2CD5106979C542</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5C3390ACBB5411A9B5251BF5A3C4B028FBAC4D06</string>
+			<string>DA947402317C90A7D22F02DD0E2CD5106979C542</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Swift</string>
+			<string>JSON-Tutorial</string>
 		</dict>
 	</array>
 </dict>
