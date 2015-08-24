@@ -13,6 +13,6 @@ This contents following things -
 - Show warning when user pull to refresh data in offline mode.<br><br>
 ![Alt text](/Screenshots/json-5.png?raw=true "Show Warning")<br><br><br>
 - Provides searchbar to search items from table view.<br><br>
-![Alt text](/Screenshots/json-6.png?raw=true "Show search result")<br><br><br>
+![Alt text](/Screenshots/json-6.png?raw=true "Show search result")
 
 
